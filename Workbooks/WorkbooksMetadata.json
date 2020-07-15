@@ -739,7 +739,6 @@
     "templateRelativePath": "PulseConnectSecure.json",
     "subtitle": "",
     "provider": "Pulse Secure",
-    "featureFlag": "PulseConnectSecureConnector"
   },
   {
     "workbookKey": "InfobloxNIOSWorkbook",
@@ -753,7 +752,6 @@
     "templateRelativePath": "InfobloxNIOS.json",
     "subtitle": "",
     "provider": "Infoblox",
-    "featureFlag": "InfobloxNIOSConnector"
   },
   {
     "workbookKey": "SymantecVIPWorkbook",
@@ -767,7 +765,6 @@
     "templateRelativePath": "SymantecVIP.json",
     "subtitle": "",
     "provider": "Symantec",
-    "featureFlag": "SymantecVIPConnector"
   },
   {
     "workbookKey": "VMwareCarbonBlackWorkbook",
@@ -781,7 +778,6 @@
     "templateRelativePath": "VMwareCarbonBlack.json",
     "subtitle": "",
     "provider": "VMware",
-    "featureFlag": "VMwareCarbonBlackConnector"
   },
   {
     "workbookKey": "ProofPointTAPWorkbook",
@@ -795,7 +791,6 @@
     "templateRelativePath": "ProofpointTAP.json",
     "subtitle": "",
     "provider": "Proofpoint",
-    "featureFlag": "ProofpointTAPConnector"
   },
   {
     "workbookKey": "QualysVMWorkbook",
@@ -809,7 +804,6 @@
     "templateRelativePath": "QualysVM.json",
     "subtitle": "",
     "provider": "Qualys",
-    "featureFlag": "QualysVulnerabilityManagementConnector"
   },
   {    
     "workbookKey": "GitHubSecurityWorkbook",
